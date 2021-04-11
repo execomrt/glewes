@@ -1,7 +1,9 @@
 
 /*
  ** The OpenGLES Extension Wrangler Library
- ** Copyright (C) 2020, Stephane Denis
+ ** Copyright (C) 2002-2014, Milan Ikits <milan ikits[]ieee org>
+ ** Copyright (C) 2002-2014, Marcelo E. Magallon <mmagallo[]debian org>
+ ** Copyright (C) 2014, Stephane Denis
  ** All rights reserved.
  **
  ** Redistribution and use in source and binary forms, with or without
